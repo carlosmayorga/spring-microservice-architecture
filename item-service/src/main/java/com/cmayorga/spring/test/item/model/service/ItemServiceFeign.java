@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Service;
 
 import com.cmayorga.spring.test.item.model.Item;
-import com.cmayorga.spring.test.item.model.Product;
+import com.cmayorga.spring.test.common.model.entity.Product;
 import com.cmayorga.spring.test.item.model.rest_client.IProductRestClient;
 
 @Service("serviceFeign")

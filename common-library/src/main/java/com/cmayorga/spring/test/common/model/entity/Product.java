@@ -1,4 +1,4 @@
-package com.cmayorga.spring.test.product.model.entity;
+package com.cmayorga.spring.test.common.model.entity;
 
 import java.io.Serializable;
 import java.util.Date;
@@ -11,7 +11,6 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
-import javax.persistence.Transient;
 
 @Entity
 @Table(name = "products")

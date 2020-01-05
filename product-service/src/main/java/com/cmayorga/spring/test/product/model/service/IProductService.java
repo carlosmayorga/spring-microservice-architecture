@@ -1,7 +1,7 @@
 package com.cmayorga.spring.test.product.model.service;
 import java.util.List;
 
-import com.cmayorga.spring.test.product.model.entity.Product;
+import com.cmayorga.spring.test.common.model.entity.Product;
 
 public interface IProductService {
     

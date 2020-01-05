@@ -1,4 +1,5 @@
 package com.cmayorga.spring.test.item.model;
+import com.cmayorga.spring.test.common.model.entity.Product;
 
 public class Item {
 

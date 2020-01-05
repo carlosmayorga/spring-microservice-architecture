@@ -14,7 +14,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
 import com.cmayorga.spring.test.item.model.Item;
-import com.cmayorga.spring.test.item.model.Product;
+import com.cmayorga.spring.test.common.model.entity.Product;
 
 
 @Service("serviceRestTemplate")

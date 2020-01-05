@@ -3,7 +3,7 @@ package com.cmayorga.spring.test.item.model.service;
 import java.util.List;
 
 import com.cmayorga.spring.test.item.model.Item;
-import com.cmayorga.spring.test.item.model.Product;
+import com.cmayorga.spring.test.common.model.entity.Product;
 
 public interface IItemService {
     
