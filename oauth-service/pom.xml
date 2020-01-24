@@ -23,7 +23,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>com.cmayorga.spring.test.common</groupId>
-			<artifactId>common-service</artifactId>
+			<artifactId>common-library</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 			<exclusions>
 				<exclusion>
